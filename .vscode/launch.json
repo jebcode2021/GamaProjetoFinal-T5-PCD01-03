@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FiveitechApplication<fiveitech>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.fiveitech.fiveitech.FiveitechApplication",
+            "projectName": "fiveitech",
+            "args": ""
+        }
+    ]
+}
